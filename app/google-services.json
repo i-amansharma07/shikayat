@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "463558619614",
+    "project_id": "complaint-7a4bf",
+    "storage_bucket": "complaint-7a4bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463558619614:android:b602c426b8bedafb9d6d4f",
+        "android_client_info": {
+          "package_name": "com.example.evidence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463558619614-lotanqavd5i6cpnr6pp2tt3o5rs24i0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evidence",
+            "certificate_hash": "cca6f4c5fbdda3bfa37164b741b1541053409f57"
+          }
+        },
+        {
+          "client_id": "463558619614-e88rnb43na4co53cjbrv37bfn6fkdnj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFsMrca0VF6LNte5Zh1cm0uYm9L0y_6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463558619614-e88rnb43na4co53cjbrv37bfn6fkdnj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463558619614:android:f5c1042e39c010e69d6d4f",
+        "android_client_info": {
+          "package_name": "com.example.evidencemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463558619614-e88rnb43na4co53cjbrv37bfn6fkdnj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFsMrca0VF6LNte5Zh1cm0uYm9L0y_6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463558619614-e88rnb43na4co53cjbrv37bfn6fkdnj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

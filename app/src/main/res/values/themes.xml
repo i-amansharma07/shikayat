@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!-- Base application theme (modified) -->
+<style name="Theme.EvidenceManagement" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+
+    <!-- to make every activity full screen and status bar translucent-->
+    <item name="android:windowTranslucentStatus">true</item>
+
+    <item name="android:navigationBarColor">@color/black</item>
+
+
+    <!-- Primary brand color. -->
+    <item name="colorPrimary">@color/purple_200</item>
+    <item name="colorPrimaryVariant">@color/purple_700</item>
+    <item name="colorOnPrimary">@color/black</item>
+    <!-- Secondary brand color. -->
+    <item name="colorSecondary">@color/teal_200</item>
+    <item name="colorSecondaryVariant">@color/teal_200</item>
+    <item name="colorOnSecondary">@color/black</item>
+    <!-- Customize your theme here. -->
+</style>
+
+
+<style name="BottomSheetTheme" parent="Theme.MaterialComponents.Light.BottomSheetDialog">
+
+</style>
+
+
+
+<style name="BottomSheetStyle" parent="Theme.MaterialComponents.Light.BottomSheetDialog">
+
+    <item name="android:background">#00000000</item>
+
+</style>
+
+<style name="cursorColor" parent="Widget.AppCompat.AutoCompleteTextView">
+    <item name="android:textCursorDrawable">@drawable/et_cursor</item>
+</style>
+
+<style name="AlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+    <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+</style>
+
+
+</resources>
